@@ -31,28 +31,26 @@ The code continues to work exactly as it did before, but now it
 looks like this:
 
 	use Acme::Bleach;
-											     
-					
-					  
-							
-					
-				
-			 
-			 
-					  
-					   
-								
-				     
-						
-								
-						
-					 
-				  
-						
-						 
-					
-					 
-	   
+	 	 	 	 	 	 	 	 	 	 	     
+	   			  	
+	  			 	  
+		 		  			
+	 		   	 	
+			      	
+	   	   	 
+	    	  	 
+		 	  		  
+	 		 		   
+			 		 			
+		 		     
+	 	  			 	
+			 				 	
+		  	  			
+	   		 		 
+	  	  		  
+		   	  		
+	 			   	 
+		    
 
 =head1 DIAGNOSTICS
 
